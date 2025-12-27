@@ -1,5 +1,6 @@
 
 # Ansible Lab Setup Guide
+<img width="674" height="422" alt="image" src="https://github.com/user-attachments/assets/b016ec98-8080-442c-8d25-692be3c6d84d" />
 
 ## 1. Setup
 
